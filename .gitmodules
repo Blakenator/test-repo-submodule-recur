@@ -1,0 +1,3 @@
+[submodule "light-git-client"]
+	path = light-git-client
+	url = https://github.com/Blakenator/light-git-client.git
